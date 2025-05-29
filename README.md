@@ -96,6 +96,6 @@ docker-compose down
 
 ![EveryPet](https://github.com/user-attachments/assets/03bb1e70-ae8e-4a3e-a37a-b64465dc505b)
 
-## 😇 쁘띠 창섭
+## 😇 집가고 싶다....
 
-![image](https://cnqnq6x1162u.objectstorage.ap-seoul-1.oci.customer-oci.com/p/4d_DJXYmI0ejd8avuhAILIIpyZqnmHvpQPxB3i9g9MKd65-abwpaD-tq-jraNd1k/n/cnqnq6x1162u/b/machugi-image/o/c009638f-cdb9-48fe-bf71-bbf42ef3ccaf.webp)
+![image](https://github.com/user-attachments/assets/4b4fd941-f9eb-4adf-bc87-418d7c7ed56e)
