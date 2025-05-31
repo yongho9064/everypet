@@ -6,13 +6,13 @@ https://velog.io/@jiheon/Git-Commit-message-규칙
 
 ## 👥 팀원
 
-### 🔥 <span style="color:#3CB371; font-family: 'Comic Sans MS', cursive, sans-serif;">[Back end] 이용호</span>
+### 🔥 <span style="color:#3CB371; font-family: 'Comic Sans MS', cursive, sans-serif;">[Back end] 자바사무원 이용호</span>
 
-### ⭐️ <span style="color:#FFA500; font-family: 'Comic Sans MS', cursive, sans-serif;">[Back end] 노희철</span>
+### ⭐️ <span style="color:#FFA500; font-family: 'Comic Sans MS', cursive, sans-serif;">[Back end] 자바사무원 노희철</span>
 
-### 🌑 <span style="color:#9400D3; font-family: 'Comic Sans MS', cursive, sans-serif;">[Front end] 총괄 이관용</span>
+### 🌑 <span style="color:#9400D3; font-family: 'Comic Sans MS', cursive, sans-serif;">[Front end] 리액트사무원 이관용</span>
 
-### ⚡️ <span style="color:#FF6347; font-family: 'Comic Sans MS', cursive, sans-serif;">[Front end] 대표 박민규</span>
+### ⚡️ <span style="color:#FF6347; font-family: 'Comic Sans MS', cursive, sans-serif;">[Front end] 리액트사무원 박민규</span>
 
 ## 🌐 **Every-Pet 사이트 링크**
 [✨ **우리들의 Every-Pet 바로가기**](https://everypet.netlify.app/)
